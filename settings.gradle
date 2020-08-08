@@ -1,0 +1,2 @@
+rootProject.name='MACTVDemoApp'
+include ':app'
